@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\EjemploStack\bin\Debug\EjemploStack.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\EjemploStack\bin\Debug\EjemploStack.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\EjemploStack\obj\x86\Debug\EjemploStack.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\EjemploStack\obj\x86\Debug\EjemploStack.pdb
+C:\Users\LabTec\documents\visual studio 2010\Projects\EjemploStack\EjemploStack\obj\x86\Debug\EjemploStack.exe
+C:\Users\LabTec\documents\visual studio 2010\Projects\EjemploStack\EjemploStack\obj\x86\Debug\EjemploStack.pdb
